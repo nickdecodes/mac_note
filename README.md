@@ -25,7 +25,7 @@
 
 ## Develop Tools
 
-![desktop tools](/Users/zhengdongqi/N.Nick/mac/pic/desktop tools.png)
+![](./pic/desktop tools.png)
 
 RDM
 
@@ -47,11 +47,19 @@ RDM
 
 [robo](https://robomongo.org)
 
+[vlc](https://vlc-media-player.en.softonic.com/mac)
+
+[obs](https://obsproject.com)
+
+[Charles](https://www.charlesproxy.com)
+
+[Sequal pro](http://www.sequelpro.com)
+
 ## 其它
 
-![工作](/Users/zhengdongqi/N.Nick/mac/pic/工作.png)
+![](./pic/工作.png)
 
-![](/Users/zhengdongqi/N.Nick/mac/pic/全部.png)
+![](./pic/全部.png)
 
 [cleanmymac](https://cleanmymac.cn/?utm_source=baidu&utm_medium=cpc&utm_campaign=speed&utm_content=text_ads&hmsr=baidu&hmpl=cpc&hmcu=speed&hmci=text_ads&bd_vid=11928149464131432885)
 
@@ -59,4 +67,4 @@ RDM
 
 [pandaVPN](https://origin.huchezai.com)
 
-[百度网盘](
+[百度网盘](https://pan.baidu.com/download#pan)
