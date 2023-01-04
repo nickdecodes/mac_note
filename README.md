@@ -1,4 +1,4 @@
-# mac_note
+# mac-note
 [mac配置bash](./01.Mac默认zsh.md)
 
 [mac配置homebrew](https://brew.sh/index_zh-cn)
